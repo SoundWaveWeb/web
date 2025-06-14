@@ -1,0 +1,12 @@
+/* Estilo del titulo principal de arriba */
+#principal {
+	/* Tamaño de letra */
+	font-size: 50px;
+	/* Fondo de letra */
+	background-color:#000000;
+	/* Color de letra*/
+	color:#009e9b;
+	text-align: center;
+	background-image:url("Imagenes/imagen 3.webp");
+ 
+}
